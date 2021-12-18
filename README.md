@@ -2,7 +2,7 @@
 David (`xudavid`) and Saurabh (`surb`)
 
 ## Overview
-A purely functional, terminal based text editor written in Haskell for the language Lu, a reduced form of the scripting language Lua. We have supported basic text editing functions such as autocorrect, syntax highlighting.
+A purely functional, terminal based text editor written in Haskell for the language Lu, a reduced form of the scripting language Lua. We have supported basic text editing functions such as autocorrect and syntax highlighting. In another private version of this project, we have also implemented autoformatting, which uses the `PrettyPrint` module.
 
 ## Module organization
 Below are the major components. We suggest you read the modules in the following order. The first two are "libraries" that we created to aid in our creating a functional text editor, and the third module `GUI` contains all of the code that defines the user-facing terminal interface.
