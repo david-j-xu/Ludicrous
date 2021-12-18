@@ -1,0 +1,172 @@
+the
+be
+to
+of
+and
+a
+in
+that
+have
+I
+it
+for
+not
+on
+with
+he
+as
+you
+do
+at
+this
+but
+his
+by
+from
+they
+we
+say
+her
+she
+or
+an
+will
+my
+one
+all
+would
+there
+their
+what
+so
+up
+out
+if
+about
+who
+get
+which
+go
+me
+when
+make
+can
+like
+time
+no
+just
+him
+know
+take
+person
+into
+year
+your
+good
+some
+could
+them
+see
+other
+than
+then
+now
+look
+only
+come
+its
+over
+think
+also
+back
+after
+use
+two
+how
+our
+work
+first
+well
+way
+even
+new
+want
+because
+any
+these
+give
+day
+most
+us
+special
+capability	neither
+eliminate	quit
+elite	quite
+else	quote
+recipe
+e-mail	
+embrace	refugee
+emerge	refuse
+regard
+emotion	scope
+fewer	score
+fiber	scream
+fiction	screen
+field	Script
+foreign	tactic
+forest	tail
+forever	take
+forget	tale
+form	talent
+formal	ultimately
+unable
+gaze	uncle
+gear	under
+gender	undergo
+gene	understand
+general	victory
+generate	video
+generation	view
+genetic	viewer
+highlight	village
+highly	violate
+highway	violation
+holiday	wealthy
+holy	weapon
+home	wear
+weather
+image	wedding
+week
+impact	yard
+implement	yeah
+year
+income	yell
+yellow
+yes
+journey	
+joy	zone
+judge	zany
+not
+repeat
+and
+break
+do
+else
+elseif
+end
+false
+for
+function
+goto
+if
+in
+local
+nil
+not
+or
+repeat
+return
+then
+true
+until
+while
